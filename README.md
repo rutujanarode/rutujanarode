@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>AI-driven systems and real-world problem-solving projects  <br><br>🤝 I’m looking to collaborate on  <br>Java-based applications and database-driven projects  <br><br>🫶 I’m looking for help with  <br>Building efficient and scalable application logic  <br><br>🌱 I’m currently learning  <br>Improving problem-solving skills and writing cleaner, efficient code  <br><br>💬 Ask me about  <br>Java, SQL, Data Structures & Algorithms, and DBMS  <br><br>⚡ Fun fact  <br>I enjoy writing optimized SQL queries and solving logical problems 🚀  
+🔭 I’m currently working on  <br>AI-driven systems and real-world problem-solving projects  <br><br>🤝 I’m looking to collaborate on  <br>Java-based applications and database-driven projects  <br><br>🫶 I’m looking for help with  <br>Building efficient and scalable application logic  <br><br>🌱 I’m currently learning  <br>Improving problem-solving skills and writing cleaner, efficient code  <br><br>💬 Ask me about  <br>Java, SQL, Data Structures & Algorithms, DBMS, DevOps, Cloud Computing and Cybersecurity  <br><br>⚡ Fun fact  <br>I enjoy writing optimized SQL queries and solving logical problems 🚀  
 
 
 # 💻 Tech Stack:
